@@ -1,3 +1,0 @@
-SELECT seller_id 
-FROM MYAPPLICATION.DBTDB.seller_data 
-LIMIT 500
